@@ -8,7 +8,6 @@ This repository contains my daily practice solutions for Data Structures and Alg
 
 - 📆 Daily DSA solutions using Java
 - 🧠 Covers common topics: Linked Lists, Arrays, Recursion, Stacks, Queues, and more
-- 📁 Organized folder structure (Day-wise)
 - ✍️ Beginner-friendly code with comments
 
 ## 🚀 Purpose
@@ -18,7 +17,7 @@ The goal of this repository is to stay consistent with problem-solving while imp
 ## 🛠️ Tech Stack
 
 - Language: **Java**
-- Platforms: LeetCode, GeeksForGeeks, Codeforces (problem references will be added as needed)
+- Platforms: LeetCode, GeeksForGeeks
 
 ## 📚 Usage
 
