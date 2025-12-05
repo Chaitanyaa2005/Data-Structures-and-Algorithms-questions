@@ -1,5 +1,5 @@
 // Code for : Addition of two linked list
-public class AddTwoLL {
+public class addTwoLL {
     public static class Node{
         int data ;
         Node next ;
@@ -38,7 +38,7 @@ public class AddTwoLL {
     return dummyNode.next ;
    }
    // method to display addition of two linked list
-   public static Node displayLL(Node head){
+   public static void displayLL(Node head){
     Node temp = head ;
     while(temp != null){
         System.out.print(temp.data + " ");
